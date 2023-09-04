@@ -1,4 +1,4 @@
-package br.com.alura.forum.controller
+package br.com.alura.forum.dto
 
 import jakarta.validation.constraints.NotEmpty
 import jakarta.validation.constraints.NotNull
